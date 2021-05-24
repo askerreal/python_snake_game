@@ -1,2 +1,5 @@
 # python_snake_game
-Snake game with python
+
+It's a simple snake game to play. 
+
+
